@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -18,7 +18,9 @@
   },
   "homepage": "https://github.com/JamesJ995/TeamProfileGenerator#readme",
   "dependencies": {
-    "inquirer": "^8.1.2",
+    "inquirer": "^8.1.2"
+  },
+  "devDependencies": {
     "jest": "^27.0.6"
   }
 }
