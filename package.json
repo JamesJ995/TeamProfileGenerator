@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/JamesJ995/TeamProfileGenerator#readme",
   "dependencies": {
+    "fs": "0.0.1-security",
     "inquirer": "^8.1.2"
   },
   "devDependencies": {
