@@ -18,9 +18,9 @@
   },
   "homepage": "https://github.com/JamesJ995/TeamProfileGenerator#readme",
   "dependencies": {
+    "bootstrap": "^5.0.2",
     "fs": "0.0.1-security",
-    "inquirer": "^8.1.2",
-    "inquirer-recursive": "0.0.7"
+    "inquirer": "^8.1.2"
   },
   "devDependencies": {
     "jest": "^27.0.6"
