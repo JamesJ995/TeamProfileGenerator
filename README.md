@@ -17,6 +17,7 @@ npm install
 
 ## Usage
 To run the app use: ' node index.js ' from the root folder
+![teamprofile](https://user-images.githubusercontent.com/20030490/125895109-38847db3-faa1-4011-a087-88f48f44c0af.gif)
 
 
 ## License
@@ -30,8 +31,8 @@ Link to the license: https://opensource.org/licenses/MIT
 James Johnson
 
 ## Tests
-to run test: (npm run test) uses jest
+to run testing suite: ' npm run test ' --> uses jest
 
 ## Questions
-mrjam7@gmail.com
+Email me at: mrjam7@gmail.com
 
